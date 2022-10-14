@@ -1,0 +1,80 @@
+header{
+    height: 80px;
+    width: 100%;
+    color: rgb(198, 157, 23);
+    background-color: #641414;
+    position: fixed;
+}
+nav{
+    margin-top: 20px;
+    float: right;
+    font-size: 25px;
+}
+#logo{
+    float: left;
+    width: 300px;
+    height: 70px;
+}
+
+.top{
+    padding-top: 20px;
+    color: rgb(235, 232, 228);
+    text-decoration: none;
+}
+
+body{
+    background-color: black;
+}
+
+.button{
+    background-color: aqua;
+    color: #641414;
+    width: 120px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 4px;
+    cursor: pointer;
+    display: inline-block;
+}
+.button:hover{
+    width: 140px;
+    background-color: bisque;
+}
+
+.lastseason {
+color:rgb(255, 255, 255); 
+background-color: #641414;
+text-align: center;
+
+}
+
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: #641414;
+}
+
+.para{
+    color: aqua;
+}
+ li{
+    list-style: none;;
+ }
+ img{
+    border-radius: 10px;
+    width: 300px;
+    height: 450px;
+ }
+ .seasons:hover{
+    width: 320px;
+    height: 470px;
+ }
+
+ section {
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+ }
+ section a {
+    display: block;
+ }
